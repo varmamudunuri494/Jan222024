@@ -13,7 +13,6 @@ Entering A New Contact
     Appstate      Home
     LaunchApp     Sales
     ClickText     Contacts
-    ClickText     New
     ClickUntil    New Contact                 New
     UseModal      On
     PickList      Salutation                  Mr.
@@ -26,4 +25,5 @@ Entering A New Contact
     TypeText      Mailing Country             USA
     ClickText     Save                        partial_match=False
     UseModal      Off
+    Sleep         3s
     ClickText     Details
