@@ -8,26 +8,22 @@ Suite Teardown    Close All Browsers
 Resource          ../Common/TestCommon.robot
 
 *** Test Cases ***
-Entering A New Book
-    [Tags]        Books
+Entering A New Contact
+    [Tags]        Contacts
     Appstate      Home
     LaunchApp     Sales
-    ClickText     More
-    ClickText     Books
-    ClickUntil    New Book                    New
+    ClickText     Contacts
+    ClickUntil    New Contact                    New
     ClickText     New
     UseModal      On
-    TypeText      *Book Name                  GOT7908
-    TypeText      Book ID                     W467
-    TypeText      Date                        02/12/2023                  anchor=Book ID
-    PickList      Currency                    CAD - Canadian Dollar
-    PickList      Genre of Book               History
-    TypeText      Number of Copies            15
-    TypeText      Author                      Ayanshvarma
-    VerifyText    System Information
-    PickList      Request To                  Viz
-    TypeText      Title                       GMC
-    TypeText      Directions                  Take Left and go right
+    PickList      Salutation                  Mr.
+    TypeText      First Name                  Mahe
+    TypeText      *Last Name                  Varma
+    TypeText      Email                       varma@gmail.com
+    PickList      *Contact Currency           CAD - Canadian Dollar
+    VerifyText    Address Information
+    TypeText      Mailing Street              1st Lane
+    TypeText      Mailing Country             USA
     ClickText     Save                        partial_match=False
     UseModal      Off
     ClickText     Details
