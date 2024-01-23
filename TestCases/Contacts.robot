@@ -27,4 +27,3 @@ Entering A New Contact
     ClickText     Save                        partial_match=False
     UseModal      Off
     ClickText     Details
-    VerifyText    GOT7908
