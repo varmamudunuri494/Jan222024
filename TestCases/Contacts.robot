@@ -13,8 +13,8 @@ Entering A New Contact
     Appstate      Home
     LaunchApp     Sales
     ClickText     Contacts
-    ClickUntil    New Contact                    New
     ClickText     New
+    ClickUntil    New Contact                    New
     UseModal      On
     PickList      Salutation                  Mr.
     TypeText      First Name                  Mahe
