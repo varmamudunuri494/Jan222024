@@ -5,7 +5,7 @@ Library           String
 Library           DateTime
 Suite Setup       Open Browser                about:blank                 chrome
 Suite Teardown    Close All Browsers
-Resource          ../Resources/TestCommon.robot
+Resource          ../Common/TestCommon.robot
 
 *** Test Cases ***
 Entering A New Book
