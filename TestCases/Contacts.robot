@@ -14,7 +14,7 @@ Entering A New Contact
     LaunchApp     Sales
     ClickText     Contacts
     ClickText     New
-    ClickUntil    New Contact                    New
+    ClickUntil    New Contact                 New
     UseModal      On
     PickList      Salutation                  Mr.
     TypeText      First Name                  Mahe
