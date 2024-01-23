@@ -17,7 +17,7 @@ Entering A New Book
     ClickUntil    New Book                    New
     ClickText     New
     UseModal      On
-    TypeText      *Book Name                  GOT7905
+    TypeText      *Book Name                  GOT7908
     TypeText      Book ID                     W467
     TypeText      Date                        02/12/2023                  anchor=Book ID
     PickList      Currency                    CAD - Canadian Dollar
@@ -31,4 +31,4 @@ Entering A New Book
     ClickText     Save                        partial_match=False
     UseModal      Off
     ClickText     Details
-    VerifyText    GOT7905
+    VerifyText    GOT7908
