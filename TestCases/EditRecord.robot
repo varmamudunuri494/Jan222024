@@ -13,4 +13,4 @@ Eidting A Contact
     Appstate      Home
     LaunchApp     Sales
     ClickText     Contacts
-    ClickItem     Recently Viewed
+    ClickItem     New Last Week
