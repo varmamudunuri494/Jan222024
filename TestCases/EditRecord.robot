@@ -13,4 +13,4 @@ Eidting A Contact
     Appstate      Home
     LaunchApp     Sales
     ClickText     Contacts
-    PickList      Select a List View: Contacts    Open
+    ClickItem     Recently Viewed
