@@ -14,5 +14,5 @@ Eidting A Contact
     LaunchApp         Sales
     ClickText         Contacts
     ClickItem         Select a List View: Contacts
-    ClickElement      (//span[text()\='Recently\ Viewed'])                     timeout=20
+    ClickElement      (//span[text()\='Recently\ Viewed'])                    timeout=20
     ClickTableCell    Name                        1                           timeout=20
