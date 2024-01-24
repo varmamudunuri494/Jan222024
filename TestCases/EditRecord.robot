@@ -15,4 +15,4 @@ Eidting A Contact
     ClickText       Contacts
     ClickItem       Select a List View: Contacts
     ClickElement    (//span[text()\='Recently\ Viewed'])                    timeout=20
-    ClickCell       r2/c?Name                   tag=a
+    ClickCell       r2/c2Name                   tag=a
