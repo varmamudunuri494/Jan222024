@@ -15,4 +15,4 @@ Eidting A Contact
     ClickText         Contacts
     ClickItem         Select a List View: Contacts
     ClickElement      (//span[text()\='New\ Last\ Week'])                     timeout=20
-    ClickTableCell    Name                        1
+    ClickTableCell    Name                        1                           timeout=20
