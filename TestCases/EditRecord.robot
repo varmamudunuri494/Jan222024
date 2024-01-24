@@ -13,3 +13,4 @@ Eidting A Contact
     Appstate      Home
     LaunchApp     Sales
     ClickText     Contacts
+    PickList      Contacts    Recently Viewed
