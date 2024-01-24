@@ -17,3 +17,4 @@ Eidting A Contact
     ClickElement    (//span[text()\='Recently\ Viewed'])                    timeout=20
     UseTable        Item Number
     ClickCell       r2/c?Name                   tag=a
+    ClickText       Details                 
