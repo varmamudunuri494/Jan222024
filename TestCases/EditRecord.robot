@@ -8,7 +8,7 @@ Suite Setup       Open Browser                about:blank                 chrome
 Suite Teardown    Close All Browsers
 
 *** Test Cases ***
-Entering A New Contact
+Eidting A Contact
     [Tags]        Contacts
     Appstate      Home
     LaunchApp     Sales
