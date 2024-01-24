@@ -14,4 +14,4 @@ Eidting A Contact
     LaunchApp     Sales
     ClickText     Contacts
     ClickItem     Select a List View: Contacts
-    ClickText     New Last Week
+    ClickItem     New Last Week
