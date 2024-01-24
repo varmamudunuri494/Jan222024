@@ -13,4 +13,4 @@ Eidting A Contact
     Appstate      Home
     LaunchApp     Sales
     ClickText     Contacts
-    DropDown      Contacts    My Contacts
+    PickList      Contacts    My Contacts
