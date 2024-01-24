@@ -13,4 +13,5 @@ Eidting A Contact
     Appstate      Home
     LaunchApp     Sales
     ClickText     Contacts
-    ClickItem     Select a List View: Contacts                            New Last Week
+    ClickItem     Select a List View: Contacts
+    ClickText     New Last Week
