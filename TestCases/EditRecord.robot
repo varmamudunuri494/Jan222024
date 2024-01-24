@@ -13,4 +13,4 @@ Eidting A Contact
     Appstate      Home
     LaunchApp     Sales
     ClickText     Contacts
-    PickList      Contacts    My Contacts
+    PickList      Select a List View: Contacts    My Contacts
