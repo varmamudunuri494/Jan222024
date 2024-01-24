@@ -14,4 +14,4 @@ Eidting A Contact
     LaunchApp     Sales
     ClickText     Contacts
     ClickItem     Select a List View: Contacts
-    ClickItem     New Last Week
+    ClickElement  (//span[text()\='New Last Week'])
