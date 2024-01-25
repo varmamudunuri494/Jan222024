@@ -20,6 +20,6 @@ Eidting A Contact
     ClickText       Details
     ClickText       Edit\ Reports\ To           timeout=20
     ComboBox        Search\ Contacts...         Andy\ Young                 timeout=20
-    ClickText         Save                        partial_match=False
-    UseModal          Off
-    Sleep             3s
+    ClickText       Save                        partial_match=False
+    UseModal        Off
+    Sleep           3s
