@@ -23,5 +23,5 @@ Eidting A Contact
     VerifyText      Address Information
     TypeText        Other Country               United Arab Emirates
     ClickText       Save                        partial_match=False
-    UseModal        Of
+    UseModal        Off
     Sleep           3sf
