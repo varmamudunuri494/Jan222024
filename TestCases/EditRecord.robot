@@ -18,11 +18,8 @@ Eidting A Contact
     UseTable        Item Number
     ClickCell       r?Abhi\ Varma/c?Name        tag=a                       timeout=20
     ClickText       Details
-    ClickText       Edit\ Name                  timeout=20
-    PickList        Lead Source                 Web                         timeout=20
-    VerifyText      Other Address               timeout=20
-    TypeText        Other Country               United Arab Emirates        timeout=20
-    TypeText        Reports To                  Varma                       timeout=20
+    ClickText       Edit\ Reports\ To           timeout=20
+    TypeText        Search\ Contacts...         Suresh                      timeout=20
     ClickText       Save                        partial_match=False
     UseModal        Off
     Sleep           3s
