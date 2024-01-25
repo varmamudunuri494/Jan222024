@@ -20,3 +20,4 @@ Eidting A Contact
     ClickText       Details
     ClickText       Edit\ Reports\ To           timeout=20
     TypeText        Search\ Contacts...         Andy\ Young                 timeout=20
+    ClickItem       Andy\ Young                 timeout=20
