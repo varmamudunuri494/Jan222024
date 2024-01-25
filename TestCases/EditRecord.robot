@@ -18,4 +18,4 @@ Eidting A Contact
     UseTable        Item Number
     ClickCell       r?Andy\ Young/c?Name         tag=a                       timeout=20
     ClickText       Details
-    ClickItem       Edit Name
+    ClickItem       Edit Name                    timeout=20
