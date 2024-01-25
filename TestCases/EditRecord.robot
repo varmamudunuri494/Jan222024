@@ -20,4 +20,4 @@ Eidting A Contact
     ClickText       Details
     ClickText       Edit\ Reports\ To           timeout=20
     ClickItem       Search\ Contacts...         timeout=20
-    ClickItem       Search\ Contacts...         timeout=20
+    ClickItem       Search\ Contacts...
