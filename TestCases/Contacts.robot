@@ -16,13 +16,13 @@ Entering A New Contact
     ClickUntil        New Contact                 New
     UseModal          On
     VerifyPicklist    Salutation                  Mr.
-    TypeText          First Name                  Mahe
+    TypeText          First Name                  Abhi
     TypeText          *Last Name                  Varma
-    TypeText          Email                       varma@gmail.com
+    TypeText          Email                       abhivarma@gmail.com
     PickList          *Contact Currency           CAD - Canadian Dollar
     VerifyText        Address Information
-    TypeText          Mailing Street              1st Lane
-    TypeText          Mailing Country             USA
+    TypeText          Mailing Street              4th Lane
+    TypeText          Mailing Country             Australia
     ClickText         Save                        partial_match=False
     UseModal          Off
     Sleep             3s
