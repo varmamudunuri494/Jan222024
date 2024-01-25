@@ -25,5 +25,5 @@ Entering A New Contact
     TypeText          Mailing Country             Australia
     ClickText         Save                        partial_match=False
     UseModal          Off
-    Sleep             3sf
+    Sleep             3s
     ClickText         Details
