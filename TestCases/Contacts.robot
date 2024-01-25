@@ -24,6 +24,6 @@ Entering A New Contact
     TypeText          Mailing Street              4th Lane
     TypeText          Mailing Country             Australia
     ClickText         Save                        partial_match=False
-    UseModal          Off
-    Sleep             3s
+    UseModal          Of
+    Sleep             3sf
     ClickText         Details
