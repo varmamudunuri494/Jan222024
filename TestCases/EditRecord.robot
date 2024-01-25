@@ -22,6 +22,7 @@ Eidting A Contact
     PickList        Lead Source                 Web                         timeout=20
     VerifyText      Other Address               timeout=20
     TypeText        Other Country               United Arab Emirates        timeout=20
+    TypeText        Reports To                  Varma                       timeout=20
     ClickText       Save                        partial_match=False
     UseModal        Off
     Sleep           3s
