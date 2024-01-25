@@ -19,3 +19,9 @@ Eidting A Contact
     ClickCell       r?Abhi\ Varma/c?Name        tag=a                       timeout=20
     ClickText       Details
     ClickText       Edit\ Name                  timeout=20
+    PickList        Lead Source                 Web
+    VerifyText      Address Information
+    TypeText        Other Country               United Arab Emirates
+    ClickText       Save                        partial_match=False
+    UseModal        Of
+    Sleep           3sf
