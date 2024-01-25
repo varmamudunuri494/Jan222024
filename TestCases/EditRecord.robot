@@ -19,5 +19,5 @@ Eidting A Contact
     ClickCell       r?Abhi\ Varma/c?Name        tag=a                       timeout=20
     ClickText       Details
     ClickText       Edit\ Reports\ To           timeout=20
-    ClickText       Search\ Contacts...         timeout=20
+    ClickText       Search\ Contacts...         Andy\ Young                 timeout=20
     ClickItem       Andy\ Young                 timeout=20
