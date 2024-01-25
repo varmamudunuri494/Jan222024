@@ -24,4 +24,4 @@ Eidting A Contact
     TypeText        Other Country               United Arab Emirates        timeout=20
     ClickText       Save                        partial_match=False
     UseModal        Off
-    Sleep           3sf
+    Sleep           3s
