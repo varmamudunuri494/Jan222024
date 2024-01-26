@@ -21,11 +21,11 @@ Eidting A Contact
     ClickText       Edit\ Phone                 timeout=20
     TypeText        Phone                       8956232563
     ClickText       Reports\ To
-    ClickText       Search Contacts...
+    #ClickText       Search Contacts...
     ClickText       New Contact                 anchor=Recent Contacts
     UseModal        On
     PickList        Salutation                  Ms.
-    TypeText        First Name                  Shan
+    TypeText        First Name                  Shan1
     TypeText        Last Name                   Sharma
     PickList        Contact Currency            CAD - Canadian Dollar
     ClickText       Save                        anchor=Contact Information
