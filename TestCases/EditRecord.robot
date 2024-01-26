@@ -27,6 +27,7 @@ Eidting A Contact
     TypeText        Last Name                   Sharma
     PickList        Contact Currency            CAD - Canadian Dollar
     ClickText       Save                        anchor=Contact Information
-    UseModal        Off
+    UseModal        Off                       
+    Sleep           2s
     TypeText        Phone                       8956232563
     ClickText       Save
