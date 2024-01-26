@@ -23,7 +23,7 @@ Eidting A Contact
     ClickText       New Contact                 anchor=Recent Contacts
     UseModal        On
     PickList        Salutation                  Ms.
-    TypeText        First Name                  Swathi
+    TypeText        First Name                  Shaik
     TypeText        Last Name                   Sharma
     PickList        Contact Currency            CAD - Canadian Dollar
     ClickText       Save                        anchor=Contact Information
