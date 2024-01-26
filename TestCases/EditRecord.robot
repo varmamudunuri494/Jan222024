@@ -31,3 +31,4 @@ Eidting A Contact
     Sleep           2s
     TypeText        Phone                       8956232563
     ClickText       Save
+    Sleep           3s
