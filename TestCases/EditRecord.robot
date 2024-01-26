@@ -18,7 +18,9 @@ Eidting A Contact
     UseTable        Item Number
     ClickCell       r?Abhi\ Varma/c?Name        tag=a                       timeout=20
     ClickText       Details
-    ClickText       Edit\ Reports\ To           timeout=20
+    ClickText       Edit\ Phone           timeout=20
+    TypeText        Phone                       8956232563
+    ClickText       Reports\ To
     ClickText       Search Contacts...
     ClickText       New Contact                 anchor=Recent Contacts
     UseModal        On
@@ -29,6 +31,6 @@ Eidting A Contact
     ClickText       Save                        anchor=Contact Information
     UseModal        Off
     Sleep           2s
-    TypeText        Phone                       8956232563
+
     ClickText       Save                        partial_match=False
     Sleep           3s
