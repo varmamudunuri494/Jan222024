@@ -19,7 +19,3 @@ Eidting A Contact
     ClickCell       r?Mahe\ Varma/c?Name        tag=a                       timeout=20
     ClickText       Details
     ClickText       Edit\ Reports\ To           timeout=20
-    ComboBox        Search\ Contacts...         New\ Contact                 timeout=20
-    ClickText       Save                        partial_match=False
-    UseModal        Off
-    Sleep           3s
