@@ -16,6 +16,17 @@ Eidting A Contact
     ClickItem       Select a List View: Contacts
     ClickElement    (//span[text()\='Recently\ Viewed'])                    timeout=20
     UseTable        Item Number
-    ClickCell       r?Mahe\ Varma/c?Name        tag=a                       timeout=20
+    ClickCell       r?Abhi\ Varma/c?Name        tag=a                       timeout=20
     ClickText       Details
     ClickText       Edit\ Reports\ To           timeout=20
+    ClickText       Search Contacts...
+    ClickText       New Contact                 anchor=Recent Contacts
+    UseModal        On
+    PickList        Salutation                  Ms.
+    TypeText        First Name                  Sakshi
+    TypeText        Last Name                   Sharma
+    PickList        Contact Currency            CAD - Canadian Dollar
+    ClickText       Save                        anchor=Contact Information
+    UseModal        Off
+    TypeText        Phone                       8956232563
+    ClickText       Save
