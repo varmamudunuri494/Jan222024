@@ -17,4 +17,10 @@ Entering A New Contact
     ClickElement    (//span[text()\='Recently\ Viewed'])                    timeout=20
    # UseTable        Item Number
    # ClickCell       r?Shan\ Sharma/c?Name      tag=a                       timeout=20
-    
+    UseTable    Item Number
+    ClickCell    r1c8
+    ClickText    Delete
+    UseModal    On
+    ClickText    Delete
+    UseModal          Off
+    Sleep             3s
