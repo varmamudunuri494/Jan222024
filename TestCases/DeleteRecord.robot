@@ -18,3 +18,4 @@ Entering A New Contact
     UseTable        Item Number
     ClickCell       r?Mahe\ Varma/c?Name        tag=a                       timeout=20
     ClickText       Show\ more\ actions
+    ClickText       Delete
