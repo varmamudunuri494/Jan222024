@@ -19,6 +19,6 @@ Entering A New Contact
     ClickCell       r?Shan1\ Sharma/c?Name        tag=a                       timeout=20
     ClickText       Show\ more\ actions
     ClickText       Delete
-    VerifyText      Are you sure you want to delete this contact?
+    VerifyText      Are\ you\ sure\ you\ want\ to\ delete\ this\ contact?
     ClickText       Delete                      partial_match=False
     Sleep           3s
