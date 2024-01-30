@@ -16,7 +16,7 @@ Entering A New Contact
     ClickItem       Select a List View: Contacts
     ClickElement    (//span[text()\='Recently\ Viewed'])                    timeout=20
     UseTable        Item Number
-    ClickCell       r?Shan1\ Sharma/c?Name      tag=a                       timeout=20
+    ClickCell       r?Shan1\ Sharma/c?Name                        timeout=20
     ClickText       Show\ more\ actions
     ClickText       Delete
     VerifyText      Are\ you\ sure\ you\ want\ to\ delete\ this\ contact?
