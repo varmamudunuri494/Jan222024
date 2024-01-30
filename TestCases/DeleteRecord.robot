@@ -13,3 +13,7 @@ Entering A New Contact
     Appstate          Home
     LaunchApp         Sales
     ClickText         Contacts
+    ClickItem       Select a List View: Contacts
+    ClickElement    (//span[text()\='Recently\ Viewed'])                    timeout=20
+    UseTable        Item Number
+    ClickCell       r?Mahe\ Varma/c?Name        tag=a                       timeout=20
