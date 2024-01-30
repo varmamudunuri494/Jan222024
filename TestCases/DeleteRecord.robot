@@ -19,3 +19,5 @@ Entering A New Contact
     ClickCell       r?Mahe\ Varma/c?Name        tag=a                       timeout=20
     ClickText       Show\ more\ actions
     ClickText       Delete
+    VerifyText      Are you sure you want to delete this contact?
+    ClickText       Delete                      partial_match=False
